@@ -32,6 +32,22 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazem-Magdy&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
   </div>
 </div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; margin-bottom: 30px;">
+  <div style="display: flex; flex-direction: row; justify-content: space-between; width: 60%; max-width: 600px; margin-bottom: 20px;">
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 20px; background-color: #1a1b27; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); width: 48%;">
+      <h2 style="font-size: 2rem; font-weight: bold; color: #fff; margin-bottom: 10px;">GitHub Stats</h2>
+      <img src="https://github-readme-stats.vercel.app/api?username=Hazem-Magdy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+    </div>
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 20px; background-color: #1a1b27; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); width: 48%;">
+      <h2 style="font-size: 2rem; font-weight: bold; color: #fff; margin-bottom: 10px;">Streak Stats</h2>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hazem-Magdy&theme=tokyonight&hide_border=false" alt="Streak Stats" />
+    </div>
+  </div>
+  <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 20px; background-color: #1a1b27; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); width: 30%; max-width: 300px; margin-bottom: 20px;">
+    <h2 style="font-size: 2rem; font-weight: bold; color: #fff; margin-bottom: 10px;">Top Languages</h2>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazem-Magdy&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+  </div>
+</div>
 
 
 
