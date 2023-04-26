@@ -16,17 +16,18 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/elprofessor#9864) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HazemMagdyGhieth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hazem-magdy-abdalhamid) 
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://discord.gg/elprofessor#9864" style="text-decoration: none; margin-right: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://discord.gg/elprofessor#9864" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://facebook.com/HazemMagdyGhieth" style="text-decoration: none; margin-right: 10px;">
+  <a href="https://facebook.com/HazemMagdyGhieth" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://linkedin.com/in/hazem-magdy-abdalhamid" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
+
 
 
 
