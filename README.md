@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I'm Hazem Magdy, a recent graduate from the Faculty of Science.<br>👯 ITI Trainee<br>🌱 I'm a skilled .NET backend developer with experience in web design and development, as well as BI. <br>
+<h3>🔭 I'm Hazem Magdy, a recent graduate from the Faculty of Science.</h3>
+<h3>👯 ITI Trainee </h3>
+<h3>🌱 I'm a skilled .NET backend developer with experience in web design and development, as well as BI. </h3>
+<h3>📫  If you're interested in connecting with me or discussing potential opportunities, please don't hesitate to reach out! 
+  <a href="mailto:hazemmagdy545@email.com">Email</a></h3>
 
 
 ## 🌐 Socials:
