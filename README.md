@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="color: f75c7e;">Hazem Magdy</span>
+  <span style="color: blueviolet;">Hazem Magdy</span>
 </p>
 
 <p align="center">
