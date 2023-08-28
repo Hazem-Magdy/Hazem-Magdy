@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hazem</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=.NET %20Developer;1%2B%20Year%20Of%20Coding%20Experience;Always%20Learning%20New%20Technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Backend %20Developer;1%2B%20Year%20Of%20Coding%20Experience;Always%20Learning%20New%20Technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 
 # 💫 About Me:
 <h3>🔭 I'm Hazem Magdy, graduated from the Faculty of Science.</h3>
-<h3>👯 ITI Trainee ( 9 - Month Diploma - Professional Web Development & BI ). </h3>
-<h3>🌱 I'm a skilled .NET developer with experience in web design and development, as well as BI. </h3>
+<h3>👯 ITI Graduate ( 9 - Month Diploma - Professional Web Development & BI ). </h3>
+<h3>🌱 I'm a skilled Backend developer with experience in web design and development, as well as BI. </h3>
 <h3>📫  If you're interested in connecting with me, please don't hesitate to reach out! => 
   <a href="mailto:hazemmagdy545@email.com">Email</a></h3>
 
